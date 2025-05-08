@@ -111,4 +111,10 @@ int main()
     LinkedList mhs;
     int nim;
     char ch;
+
+    do
+    {
+        /* code */
+    } while (ch != '5');
+    
 }
